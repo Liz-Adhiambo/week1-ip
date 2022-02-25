@@ -1,3 +1,27 @@
-h1 {color: bisque;}
-body {background-color: rgb(100, 98, 98);
-font-style: italic;}
+h1 {color: rgb(2, 1, 0);}
+body {background-color: hsl(332, 53%, 15%);
+font-style: normal;
+margin: 3px;
+color: rgb(233, 240, 240);
+}
+
+
+}
+.obar {width: 600px;
+float: right;
+text-align: center;}
+img {float: left;}
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 15px;
+}
+.container {width: 80%;
+text-align: left;}
+.box {
+  border-left: 2px solid red;
+  border-right: 4px solid blue;
+  border-top: 6px solid orange;
+  border-bottom: 8px solid black;
+}
+  
