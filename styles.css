@@ -6,9 +6,8 @@ box-sizing: border-box;}
 .hero{
   height: 100vh;
   width: 100%;
-  background-image: url(./images/Background.jpg);
-  background-size: cover;
-  background-position: center;
+  background-image: url(./images/Bback.jpg);
+  
 }
 
 nav{display: flex;
@@ -19,7 +18,7 @@ padding: left 8%;
 padding: right 8%;}
 
 .logo {color: white;
-        font-size: 35px;
+        font-size: 85px;
       letter-spacing: 1px;
     cursor: pointer;}
 span{color: rgb(97, 3, 42);}
@@ -43,7 +42,7 @@ nav ul li a:hover{color: rgb(99, 13, 39);
 }
 h1 {color: white;
 margin: 20px 0px 20px;
-font: 60px;}
+font: 70px;}
 
 .contact {width: 380px;
 max-width: 100%;
@@ -53,14 +52,15 @@ position: relative;
   border: 2px solid rgb(59, 2, 35);
   width: 100%;
   padding: 14px 150px 14px 16px;
-  }
-
+}
   .about {width: 100%;
   padding: 100px;
-background-color: rgb(139, 136, 136);}
+  background-image: url(./images/back.jpg);}
+  
 
 .about img{height: auto;
 width :250px;}
+.one {float: inline-end;}
 
 .text{width: 700px;
   top: auto;
@@ -71,4 +71,11 @@ display: flex;
 margin: 0 auto;
 align-items: center;
 justify-content: space-around;
+}
+.text{color: white;
+font-size: 20px;
+text-transform: capitalize;
+margin-bottom: 16px;
+}
+.text h5{color: white;
 }
