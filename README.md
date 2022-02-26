@@ -3,6 +3,7 @@
 #### By **Liz2222**
 ## Description
 This is my portfolo landing page. The website describes who I am, what I do, my hobbies, experiences and what I offer.
+Here is the link to github-pages https://liz2222.github.io/week1-ip/
 ## Setup/Installation Requirements
 * Stable wifi connection
 * Digital device
