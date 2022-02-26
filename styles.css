@@ -72,10 +72,42 @@ margin: 0 auto;
 align-items: center;
 justify-content: space-around;
 }
-.text{color: white;
+.text{color: rgb(97, 3, 42);
 font-size: 20px;
 text-transform: capitalize;
 margin-bottom: 16px;
 }
 .text h5{color: white;
 }
+.text p{ color: rgb(212, 187, 199);
+font-size: 18px;}
+.text ol { color: rgb(212, 187, 199);
+  font-size: 18px;}
+  button{background-color: rgb(97, 3, 42);
+    color: white;
+    text-decoration: none;
+    border: 2px transparent;
+    font-weight: bold;
+    padding: 13px 30px;
+    border-radius: 30px;
+  }
+  .projects {background-color: #101010;
+  width: 100%;
+  padding :100px 0px
+}
+.title h2{color: white;
+font-size: 60px;
+width: 1130px;
+margin :30px;
+text-align: center;
+}
+.box{display: flex;
+justify-content: center;
+align-items: center;
+min-width: 400px;}
+
+.card{height: 500px;
+padding: 20px 35px;
+border-radius: 35px;
+background-color: rgb(97, 3, 42);
+box-shadow: #101010;}
