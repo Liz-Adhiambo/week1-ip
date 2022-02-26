@@ -75,7 +75,7 @@ justify-content: space-around;
 }
 .text{color: rgb(97, 3, 42);
 font-size: 20px;
-text-transform: capitalize;
+text-transform:none;
 margin-bottom: 16px;
 }
 .text h5{color: white;
